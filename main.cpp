@@ -1,5 +1,6 @@
 #include <iostream>
 #include "logic.h"
+#include <memory>
 
 int main(){
   printUI();	
